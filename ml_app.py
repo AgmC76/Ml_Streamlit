@@ -1,4 +1,5 @@
 # part 2 imports
+import streamlit as st
 import pandas as pd
 import sklearn
 from sklearn.datasets import load_iris
